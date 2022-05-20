@@ -14,7 +14,7 @@ public Livre() {
 
 @Override
 public String toString() {
-	return "Livre [titre=" + titre + ", auteur=" + auteur + ", prix=" + prix + "]";
+	return "Livre, titre: " + titre + ", auteur: " + auteur + ", prix :" + prix + "";
 }
 
 
